@@ -1,0 +1,5 @@
+name = "convid"
+descriptive_name = "Python Video Convert"
+description = "Command line tool to convert video format"
+url = "https://github.com/Leovalcante/convid"
+version = "1.0.0"
